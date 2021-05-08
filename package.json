@@ -1,0 +1,20 @@
+{
+  "name": "eml-test",
+  "version": "1.0.0",
+  "description": "extracts emails from eml files",
+  "main": "main.js",
+  "dependencies": {
+    "async": "^3.2.0",
+    "csv-writer": "^1.6.0",
+    "eml-parser": "^1.0.5",
+    "glob": "^7.1.7",
+    "object-to-csv": "^1.0.5",
+    "yargs": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mkw",
+  "license": "ISC"
+}
