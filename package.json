@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "extracts emails from eml files",
   "main": "main.js",
+  "bin":"main.js",
   "dependencies": {
     "async": "^3.2.0",
     "csv-writer": "^1.6.0",
